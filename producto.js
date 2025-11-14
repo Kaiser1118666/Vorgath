@@ -94,6 +94,7 @@ const productos = [
         categoria: "pulseras",
         precio: 750000, // 750,000 COP
         descripcion: "Pulsera de eslabones de oro amarillo de 18k con cierre de seguridad.",
-        imagen: "https://th.bing.com/th/id/R.a41dc61ab9ae27100404d4c2430879a7?rik=iXjRF7OySzx3Yw&pid=ImgRaw&r=0"
+        imagen: "https://tse1.mm.bing.net/th/id/OIP.tNy1rE0txXb8IqDZM780jwHaHa?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
     }
+
 ];
